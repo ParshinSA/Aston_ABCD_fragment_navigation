@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aston_Base_fragment_navigation_ABCD</string>
+
+    <string name="next_to_fragment_b"><![CDATA[Fragment B ->]]></string>
+    <string name="next_to_fragment_c"><![CDATA[Fragment C ->]]></string>
+    <string name="next_to_fragment_d"><![CDATA[Fragment D ->]]></string>
+
+    <string name="back_to_fragment_a"><![CDATA[<- Fragment A]]></string>
+    <string name="back_to_fragment_b"><![CDATA[<- Fragment B]]></string>
+
+    <string name="message_hello_fragment_c">Hello Fragment C!</string>
+</resources>
